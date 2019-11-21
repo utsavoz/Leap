@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    font-family: Arial;
+    color: black;
+}
+
+a:link,
+a:hover,
+a:visited,
+a:active {
+    color: white;
+    text-decoration: none;
+}
